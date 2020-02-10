@@ -1,0 +1,39 @@
+-Mision:
+Te encuentras en la Galaxia z-x410 en el año 4090-a en una mision de rutina, cuando
+de pronto, el contenedor espacial GX-100 que contenia materiales de experimentos ha 
+estallado de manera extraña,dejando escapar numerosos elementos altamente radiactivos 
+y contaminantes en forma de asteroides.
+Tu mision ahora es destruir todos los asteroides que encuentres e impedir que se escapen
+y causen una hecatombe espacial.
+
+-Objetivo:
+Destruye todos los asteroides que encuentres para avanzar alsiguiente nivel.
+Cada nivel tiene una cantidad de asteroides esparcidos, conforme aumenta el nivel, aumentan
+la cantidad de asteroides y su velocidad.
+Para cada nivel hay un limite de 4 fugas permitidas, si las rebasas perderas una vida.
+
+-Descripcion:
+Hay solo cuatro tipos de elementos esparcidos:
+
+
+   _____________________________
+  | Elemento |  Color  |  Valor |
+  |¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|
+  |  GAMMA   |  Verde  | 200pts |
+  |__________|_________|________|
+  |¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|
+  |  AZUFRE  |  Cafe   | 300pts |   
+  |__________|_________|________|
+  |¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|
+  | Rubidio  |   Rojo  | 400pts |
+  |__________|_________|________|
+  |¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|
+  |   NHRb   |   Azul  | 500pts |
+  |__________|_________|________|
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+El destino de la Galaxia depende de ti!!!
+
+Destruye todos los asteroides que puedas antes de que sea demasiado tarde, para asi salvar
+el destino de la raza auriana y la armonia del universo perdure.
